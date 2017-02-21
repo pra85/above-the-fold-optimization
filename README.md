@@ -24,7 +24,7 @@ The plugin offers advanced options such as a render delay in milliseconds, the p
 
 ## Web Font Optimization
 
-The plugin contains a tool to optimize web fonts. The plugin automaticly parses web font `@import` links in minified CSS files and `<link>` links in the HTML and loads them via [Google Web Font Loader](https://github.com/typekit/webfontloader).
+The plugin contains a tool to optimize web fonts. The plugin automatically parses web font `@import` links in minified CSS files and `<link>` links in the HTML and loads them via [Google Web Font Loader](https://github.com/typekit/webfontloader).
 
 ## External Resource Proxy
 
